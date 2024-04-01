@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Paul, a Researcher at TUM persuing my PhD. 
+
+- 👀 Interrested in Machine Learning and Molecular Dynamics
+- 🧑‍💻 Working at the Professorship of Multiscale Modeling of Fluid Materials at TUM
+- 📮 Reach me via paul.fuchs@tum.de
+- 👱‍♂️ Pronouns: he/him
+
 
 <!--
 **pl-fuchs/pl-fuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
